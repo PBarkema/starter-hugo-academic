@@ -67,7 +67,7 @@ email: "pieterwbarkema@gmail.com"
 highlight_name: true
 ---
 
-Pieter Barkema is a brain scientist and software developer at University College London. His research interests include perceptual neuroscience, neuro-inspired machine vision, big data neuropsychiatry. He leads two experimental brain scanning studies (7T fMRI and MEG) and one computational modelling (Deep Neural Networks, Bayesian Modelling) to investigate how the brain computes our sensory reality, with one publication in press to a high-impact journal.
+Pieter Barkema is a brain scientist and scientific programmer at University College London. His research interests include perceptual neuroscience, neuro-inspired machine vision, big data neuropsychiatry. He leads two experimental brain scanning studies (7T fMRI and MEG) and one computational modelling (Deep Neural Networks, Bayesian Modelling) to investigate how the brain computes our sensory reality, with one publication in press to a high-impact journal.
 
 Pieter has professional experience working on Google Assistant as a linguist and independently creating a full stack application for analyzing huge sets of brain data as a Scientific Programmer.
 
