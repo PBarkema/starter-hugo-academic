@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: Family Talk Royal Institution
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: How Real is your Reality?
+event_url: https://www.rigb.org/whats-on/how-real-your-reality-family
 
-location: Wowchemy HQ
+location: the Royal Institution
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 21 Albemarle St
+  city: London
+  region: UK
+  postcode: 'W1S 4BS'
+  country: United Kingdom
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: A Public Talk for 200+ people on how the brain creates our reality.
+abstract: "Imagine your entire life, everything you see, hear, and feel, as a first-person movie. Your brain is the director, producer, and cinema all in one, and you’re the only person in the audience! Is the movie your brain is showing you real? Is it a live recording or a Hollywood production? The things we see around us are real...most of the time. But sometimes, your brain likes to play tricks on you. Have you ever seen a face in the clouds or been fooled by an illusion or a magic trick? They aren’t just silly mistakes; they are amazing clues that show us how the brain creates our personal movie. Illusions teach us that your brain isn't just a camera recording the world. In this talk, I walk you through these ideas and what they can teach us about robot intelligence."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2025-09-13T13:00:00Z"
+date_end: "2025-09-13T14:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,14 +31,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: '220 tickets sold at the Royal Institution: How Real Is Your Reality?'
   focal_point: Right
 
 links:
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: pieterbarkema.bsky.social
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: How_Real_Is_Your_Reality_RI
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
